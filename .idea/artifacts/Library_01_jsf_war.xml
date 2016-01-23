@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Library_01_jsf:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Library_01_jsf.war">
+      <element id="artifact" artifact-name="Library_01_jsf:war exploded" />
+    </root>
+  </artifact>
+</component>
