@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JSF_Library:war exploded">
+    <output-path>$PROJECT_DIR$/target/JSF_Library</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JSF_Library/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JSF_Library" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.sun.faces:jsf-api:2.2.12" />
+          <element id="library" level="project" name="Maven: com.sun.faces:jsf-impl:2.2.12" />
+          <element id="library" level="project" name="Maven: nz.net.ultraq.web.filter:post-processing-filter:1.0.3" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

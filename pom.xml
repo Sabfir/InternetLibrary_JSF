@@ -42,6 +42,6 @@
 
   </dependencies>
   <build>
-    <finalName>Library_01_jsf</finalName>
+    <finalName>JSF_Library</finalName>
   </build>
 </project>

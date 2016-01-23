@@ -26,6 +26,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="JSF_Library" />
         <module name="Library_01_jsf" />
       </profile>
     </annotationProcessing>
