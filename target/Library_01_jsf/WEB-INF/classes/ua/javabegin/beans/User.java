@@ -1,14 +1,15 @@
 package ua.javabegin.beans;
 
+import java.io.Serializable;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
 
-@ManagedBean(name = "user")
+@ManagedBean
 @SessionScoped
-public class User {
+public class User implements Serializable {
 
     private String username;
-    
+
     public User() {
     }
 
@@ -19,8 +20,4 @@ public class User {
     public void setUsername(String username) {
         this.username = username;
     }
-    
-    
-    
-    
 }

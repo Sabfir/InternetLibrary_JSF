@@ -2,8 +2,9 @@ package ua.javabegin.controllers;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
+import javax.faces.context.FacesContext;
 
-@ManagedBean(name = "login_controller")
+@ManagedBean
 @RequestScoped
 public class LoginController {
 
@@ -11,7 +12,11 @@ public class LoginController {
     }
 
     public String login() {
-        return "navigation_rule_books";
+        return "books";
     }
-    
+
+    public String exit() {
+        FacesContext.getCurrentInstance().getExternalContext().invalidateSession();
+        return "exit";
+    }
 }
