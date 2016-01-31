@@ -2,14 +2,12 @@ package ru.javabegin.training.web.beans;
 
 import java.io.Serializable;
 import java.util.Locale;
-import javax.faces.bean.ApplicationScoped;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
 import javax.faces.context.FacesContext;
 
 @ManagedBean(eager=true)
 @SessionScoped
-//@ApplicationScoped
 public class LocaleChanger implements Serializable {
 
     //private Locale currentLocale = FacesContext.getCurrentInstance().getViewRoot().getLocale();

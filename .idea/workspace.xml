@@ -4,17 +4,15 @@
     <list default="true" id="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" name="Default" comment="" />
     <ignored path="Library_01_jsf.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.xhtml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453649165007" ignored="false" />
+    <file path="/index.xhtml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1454165007324" ignored="false" />
     <file path="/messages.properties" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453376432376" ignored="false" />
     <file path="/fragment.java" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1454008536817" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/dictionaries/1.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453228063601" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__javax_faces_jsf_impl_2_1_7.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453230760131" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_faces_jsf_impl_2_1_7.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453230782898" ignored="false" />
     <file path="/pom.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453646479457" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_faces_jsf_impl_2_2_12.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453323240824" ignored="false" />
-    <file path="/faces-config.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453595553179" ignored="false" />
-    <file path="/web.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453649004215" ignored="false" />
-    <file path="/User.java" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453375711814" ignored="false" />
+    <file path="/faces-config.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1454105550282" ignored="false" />
+    <file path="/web.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1454277254641" ignored="false" />
+    <file path="/User.java" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1454275222738" ignored="false" />
     <file path="$PROJECT_DIR$/../luv2code_jsf_01/.idea/vcs.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453315700580" ignored="false" />
     <file path="$PROJECT_DIR$/../luv2code_jsf_01/.idea/compiler.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453315709059" ignored="false" />
     <file path="$PROJECT_DIR$/../luv2code_jsf_01/.idea/scopes/scope_settings.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453315700580" ignored="false" />
@@ -42,13 +40,12 @@
     <file path="/myresponse.xhtml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453320002835" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__javax_faces_jsf_api_2_2.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453322981159" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__javax_faces_jsf_api_2_2_12.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453322988415" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_faces_jsf_api_2_2_12.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453323321950" ignored="false" />
     <file path="/a.html" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453331158188" ignored="false" />
     <file path="/LoginValidator.java" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453380021189" ignored="false" />
     <file path="/messages_ru.properties" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453382242891" ignored="false" />
     <file path="/LoginController.java" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453383477379" ignored="false" />
     <file path="/style_index.css" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453385970314" ignored="false" />
-    <file path="/context.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453592177307" ignored="false" />
+    <file path="/context.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1454273421566" ignored="false" />
     <file path="/CharacterEncodingFilter.java" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453396635913" ignored="false" />
     <file path="/books.xhtml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453539749684" ignored="false" />
     <file path="/*.regexp" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453587483845" ignored="false" />
@@ -121,7 +118,9 @@
     <file path="$PROJECT_DIR$/../IdeaTest1/pom.xml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453646490909" ignored="false" />
     <file path="$PROJECT_DIR$/../IdeaTest1/IdeaTest1ForMaven.iml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453646709283" ignored="false" />
     <file path="/CheckSessionFilter.java" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1453647860259" ignored="false" />
-    <file path="/LocaleChanger.java" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1454001971354" ignored="false" />
+    <file path="/LocaleChanger.java" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1454023676096" ignored="false" />
+    <file path="/books2.xhtml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1454105376251" ignored="false" />
+    <file path="/error.xhtml" changelist="51ec5644-5b3d-4a04-9d8e-5584c1c5b89f" time="1454121261104" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,23 +136,7 @@
   </component>
   <component name="DebuggerManager">
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/beans/LocaleChanger.java" line="15" class="ru.javabegin.training.web.beans.LocaleChanger" package="ru.javabegin.training.web.beans">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -188,6 +171,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -201,86 +185,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="library_template.xhtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/library_template.xhtml">
+      <file leaf-file-name="User.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/beans/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="8" selection-start="552" selection-end="552" vertical-scroll-proportion="-3.6666667">
+            <state line="66" column="8" selection-start="2204" selection-end="2204" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.xhtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/header.xhtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="19" selection-start="1176" selection-end="1176" vertical-scroll-proportion="-18.76923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="books.xhtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/books.xhtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="433" selection-end="433" vertical-scroll-proportion="-2.8461537">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.xhtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="32" selection-start="378" selection-end="378" vertical-scroll-proportion="-2.6153846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginValidator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/validators/LoginValidator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="12" selection-start="1551" selection-end="1551" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="locales.xhtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/locales.xhtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="12" selection-start="1089" selection-end="1089" vertical-scroll-proportion="-11.038462">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LocaleChanger.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LocaleChanger.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/beans/LocaleChanger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="49" selection-start="761" selection-end="761" vertical-scroll-proportion="0.8333333">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="12" column="4" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="context.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="4" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="65" selection-start="1269" selection-end="1269" vertical-scroll-proportion="0.47959185">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
             <state />
           </provider>
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="faces-config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/faces-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="777" selection-end="777" vertical-scroll-proportion="-8.68">
+            <state line="48" column="11" selection-start="1725" selection-end="1725" vertical-scroll-proportion="-17.36">
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+          <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider">
             <state />
+          </provider>
+          <provider editor-type-id="com.intellij.jsf.ui.FacesConfigEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.xhtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="27" selection-start="2381" selection-end="2381" vertical-scroll-proportion="-0.65384614">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -294,22 +264,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/ua/javabegin/beans/User.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/ua/javabegin/controllers/SearchController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/ua/javabegin/enums/SearchType.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/ua/javabegin/servlets/PdfContent.java" />
         <option value="$PROJECT_DIR$/src/main/resources/ua/javabegin/controllers/GenreController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/ua/javabegin/validators/LoginValidator.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/ua/javabegin/db/Database.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/ua/javabegin/filters/CheckSessionFilter.java" />
         <option value="$PROJECT_DIR$/src/main/resources/ua/javabegin/servlets/ShowImage.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
         <option value="$PROJECT_DIR$/src/main/resources/ua/javabegin/controllers/LoginController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/js/library.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/books2.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/faces-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/error.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/beans/User.java" />
         <option value="$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/beans/LocaleChanger.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -422,8 +392,30 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
+              <option name="myItemId" value="Library_01_jsf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSF_Library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -445,29 +437,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Library_01_jsf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSF_Library" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="beans" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -477,7 +455,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="project.structure.proportion" value="0.15000002" />
@@ -494,19 +472,19 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ua.javabegin.controllers" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\web\JSF_Library\src\main\resources" />
+      <recent name="D:\Java\web\JSF_Library\src\main\webapp\pages" />
+      <recent name="D:\Java\web\JSF_Library\src\main\webapp" />
       <recent name="D:\Java\web\JSF_Library\src\main\resources\ua\javabegin" />
       <recent name="D:\Java\web\JSF_Library\src\main\resources\ua\javabegin\filters" />
-      <recent name="D:\Java\web\JSF_Library\src\main\webapp\resources" />
-      <recent name="D:\Java\web\JSF_Library\src\main\webapp" />
-      <recent name="D:\Java\web\Library_01_jsf\src\main\webapp\resources\pages" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ua.javabegin.validators" />
@@ -537,19 +515,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -576,6 +541,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -738,32 +716,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32027256" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4280303" sideWeight="0.23339012" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41733548" sideWeight="0.6904762" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4280303" sideWeight="0.23339012" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2621212" sideWeight="0.6013629" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39182281" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25530303" sideWeight="0.60988075" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39011925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -854,7 +832,9 @@
     </GetOptions>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <PATH>
@@ -917,131 +897,111 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/images/edit.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/library.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/content.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="3" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/faces-config.xml">
-      <provider editor-type-id="com.intellij.jsf.ui.FacesConfigEditorProvider">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/nls/messages.properties">
+      <provider editor-type-id="ResourceBundle">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="777" selection-end="777" vertical-scroll-proportion="-8.68">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/left_menu.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/library_template.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="8" selection-start="552" selection-end="552" vertical-scroll-proportion="-3.6666667">
-          <folding />
-        </state>
+        <state line="7" column="4" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/locales.xhtml">
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar!/javax/servlet/ServletRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="12" selection-start="1089" selection-end="1089" vertical-scroll-proportion="-11.038462">
-          <folding />
-        </state>
+        <state line="70" column="54" selection-start="2402" selection-end="2404" vertical-scroll-proportion="0.8097015" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/validators/LoginValidator.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar!/javax/servlet/http/HttpServletRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="12" selection-start="1551" selection-end="1551" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="387" column="24" selection-start="11743" selection-end="11748" vertical-scroll-proportion="0.33208954" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/library.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="203" selection-end="203" vertical-scroll-proportion="0.24242425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/books.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="433" selection-end="433" vertical-scroll-proportion="-2.8461537">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-common_3_0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="559" column="54" selection-start="20341" selection-end="20341" vertical-scroll-proportion="0.689759">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/header.xhtml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/filters/CheckSessionFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="19" selection-start="1176" selection-end="1176" vertical-scroll-proportion="-18.76923">
+        <state line="33" column="0" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.53291535" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="32" selection-start="378" selection-end="378" vertical-scroll-proportion="-2.6153846">
+        <state line="54" column="27" selection-start="2381" selection-end="2381" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/faces-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="48" column="11" selection-start="1725" selection-end="1725" vertical-scroll-proportion="-17.36">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/faces/jsf-api/2.2.12/jsf-api-2.2.12-sources.jar!/javax/faces/context/ExternalContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="2901" selection-end="2901" vertical-scroll-proportion="0.5221843">
-          <folding />
-        </state>
+      <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.jsf.ui.FacesConfigEditorProvider">
+        <state />
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/faces/jsf-api/2.2.12/jsf-api-2.2.12-sources.jar!/javax/faces/context/FacesContext.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/beans/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="324" column="29" selection-start="12826" selection-end="12826" vertical-scroll-proportion="0.59385663">
+        <state line="66" column="8" selection-start="2204" selection-end="2204" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/ru/javabegin/training/web/beans/LocaleChanger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="49" selection-start="761" selection-end="761" vertical-scroll-proportion="0.8333333">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="12" column="4" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="65" selection-start="1269" selection-end="1269" vertical-scroll-proportion="0.47959185">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
       </provider>
     </entry>
   </component>
@@ -1098,12 +1058,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JSF_Library</last-edited>
+          <last-edited>Web|JSF_Library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

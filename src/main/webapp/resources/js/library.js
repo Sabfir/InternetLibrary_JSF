@@ -3,7 +3,7 @@ function checkValue(form, message) {
     var userInput = form[form.id + ":username"];
     
     if (userInput.value ==''){
-        alert(message);
+        alert(message)
         userInput.focus();
         return false;
     } 
